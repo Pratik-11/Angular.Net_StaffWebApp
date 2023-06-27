@@ -20,4 +20,7 @@
         public string InterviewStatus { get; set; }
         public string Comments { get; set; }
     }
+}
+
+
 
